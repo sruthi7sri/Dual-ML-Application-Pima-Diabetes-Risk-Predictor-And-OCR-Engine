@@ -135,5 +135,11 @@ opencv-python>=4.5.1
 - Deployment Readiness: Provide clear instructions and tooling (including a requirements file and GitHub deployment steps) for seamless integration into portfolios and applications.
 - Scalability & Extensibility: Structure code and documentation to allow easy extension to other medical datasets or OCR character sets.
 
+
+## Collaborators
+
+- Sruthisri Venkateswaran  
+- Prajakta Patil
+
 ## License
-© 2024 Sruthisri. All rights reserved.
+© 2024 Sruthisri Venkateswaran and Prajakta Patil. All rights reserved.
